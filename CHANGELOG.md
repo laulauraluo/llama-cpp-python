@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- fix(server): accept max_completion_tokens in chat requests by @laulauraluo
+- fix(server): accept max_completion_tokens in chat requests by @laulauraluo in #2386
 
 ## [0.3.36]
 
